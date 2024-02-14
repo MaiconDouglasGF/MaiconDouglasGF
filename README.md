@@ -19,4 +19,4 @@ Eu sou o Maicon Douglas, estudante back end, criador de conteúdo e tecnologia!
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiconDouglasGF&show_icons=true&theme=radical)
+
