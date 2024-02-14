@@ -15,8 +15,21 @@ Eu sou o Maicon Douglas, estudante back end, criador de conteúdo e tecnologia!
  	<a href="https://www.twitch.tv/maicond23" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/maicond23" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
- 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MaiconDouglasGF&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MaiconDouglasGF&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaiconDouglasGF&show_icons=true" />
+</picture>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiconDouglasGF&show_icons=true&theme=transparent)
+
+  
 
 
